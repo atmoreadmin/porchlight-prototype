@@ -14,4 +14,4 @@ A phone-friendly prototype for selling as-is homes to verified cash buyers, with
 
 ## Run it
 
-Open `index.html` in a browser, or turn on GitHub Pages (Settings → Pages → Deploy from a branch → `main` / root).
+Open `index.html` (landing page) or `app.html` (seller, buyer and team app) in a browser, or turn on GitHub Pages (Settings → Pages → Deploy from a branch → `main` / root).
